@@ -312,7 +312,7 @@
                 <li>Часть 2. Создать страничку с формой <a href="form.php" target="_blank"><strong>Форма</strong></a></li>
                 <li>Часть 3. Поиск по базе данных <a href="search.html" target="_blank"><strong>Поиск</strong></a></li>
                 </ul>
-                <p class="text-center">Source in git</p>
+                <p class="text-center"><a href="https://github.com/iligzar/goodtech" target="_blank">Source in git</a></p>
             </div>
         </div>
     </main>
